@@ -38,6 +38,8 @@
 - **Certyfikat ukończenia kursu z grafiki komputerowej oraz tworzenia stron w WordPress**  
 - **Europass-Mobilność** – potwierdzenie doświadczenia zawodowego zdobytego podczas stażu zagranicznego w Szwecji (2022)
 - **AI MasterClass Higher Education** powered by Gemini Academy
+- **Warsztaty z optymalizacji procesów biznesowych z wykorzystaniem
+sztucznej inteligencji**
 
 ## 💻 Koła Naukowe 
 **Koło Naukowe Informatyków**
