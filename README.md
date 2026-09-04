@@ -19,6 +19,9 @@
 ### 🖥️ Desktop & Mobile
 ![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![WPF](https://img.shields.io/badge/WPF-68217A?style=for-the-badge&logo=dotnet&logoColor=white) ![JavaFX](https://img.shields.io/badge/JavaFX-FF6600?style=for-the-badge&logo=java&logoColor=white)
 
+### 📝 CMS & E-commerce
+![WordPress](https://img.shields.io/badge/WordPress-%231175B7.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+
 ---
 ## 🚀 Projekty
 - [**🥦 Dietetyk+**](https://github.com/xserafineq/dietetykplus) – System do zarządzania salonem dietetycznym oraz bazą pacjentów.
