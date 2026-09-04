@@ -29,6 +29,7 @@
 - [**🔒 Security Safe**](https://github.com/xserafineq/SecuritySafe) – Desktopowy menedżer haseł i szyfrowanych notatek stawiający na bezpieczeństwo danych.
 - [**📓 Notebook**](https://github.com/xserafineq/Notebook) – Mobilna aplikacja do organizacji notatek z intuicyjnym interfejsem graficznym.
 - [**☀️ Pogodynka**](https://github.com/xserafineq/Pogodynka) – Automatyzacja pozyskiwania danych pogodowych (Web Scraping) z wykorzystaniem C# oraz Selenium.
+- [**💚 Strona Gabinetu Dietetycznego**](https://paulinaserafin.pl)
 
 ## 📜 Certyfikaty, Ukończone Kursy
 
