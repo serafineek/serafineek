@@ -1,6 +1,6 @@
 ### 🏫 Wykształcenie
-- 🏫 Uniwersytet Rzeszowski (2024 - obecnie)
-- 🏫 Technikum Informatyczne (2019-2024)
+- 🏫 Uniwersytet Rzeszowski (2024 - obecnie) (*Studia inżynierskie, Informatyka*)
+- 🏫 Zespół Szkół im. ks. S. Staszica w Tarnobrzegu (2019-2024) (*Kierunek technik programista*)
 
 ### 🎖️Doświadczenie zawodowe
 - 🏢 Staż w firmie [**Jrise**](https://jrise.pl) (*Lipiec - Październik 2026*)
