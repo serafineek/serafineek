@@ -30,12 +30,12 @@
 - [**🥦 Dietetyk+**](https://github.com/xserafineq/dietetykplus) – System do zarządzania salonem dietetycznym oraz bazą pacjentów.
 - [**💪 FitAura**](https://github.com/xserafineq/fitaura) – Aplikacja desktopowa, do zapisywania dziennych aktywności oraz spożytych posiłków w ciągu dnia.
 - [**🫆 System autoryzacji biometrycznej**](https://github.com/xserafineq/MeBio) - zarządzanie użytkownikami, autoryzacja za pomocą twarzy oraz głosu.
+- [**💚 Strona Gabinetu Dietetycznego**](https://paulinaserafin.pl) - Strona z własnym motywem oraz autorskim corem.
 - [**📊 DataMiner**](https://github.com/xserafineq/DataMiner) – Program do analizy kursu walut oraz kruszców w danym czasie.
 - [**💸 Mamto**](https://github.com/xserafineq/MamTo) – Aplikacja webowa typu marketplace. 
 - [**🔒 Security Safe**](https://github.com/xserafineq/SecuritySafe) – Desktopowy menedżer haseł i szyfrowanych notatek stawiający na bezpieczeństwo danych.
 - [**📓 Notebook**](https://github.com/xserafineq/Notebook) – Mobilna aplikacja do organizacji notatek z intuicyjnym interfejsem graficznym.
 - [**☀️ Pogodynka**](https://github.com/xserafineq/Pogodynka) – Automatyzacja pozyskiwania danych pogodowych (Web Scraping) z wykorzystaniem C# oraz Selenium.
-- [**💚 Strona Gabinetu Dietetycznego**](https://paulinaserafin.pl) - Strona z własnym motywem oraz autorskim corem.
 
 ## 📜 Certyfikaty, Ukończone Kursy
 
