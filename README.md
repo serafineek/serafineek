@@ -3,8 +3,9 @@
 - 🏫 Technikum Informatyczne (2019-2024)
 
 ### 🎖️Doświadczenie zawodowe
-- 🏢 Praktyki zawodowe w firmie - [**Web-Box**](https://web-box.pl) (2023) – tworzenie i rozwój stron internetowych.
-- 🏢 Staż zagraniczny Erasmus+ w firmie „BiligTeknik.se” (2022) – zarządzanie i administracja bazami danych oraz stronami internetowymi.
+- 🏢 Staż w firmie [**Jrise**](https://jrise.pl) 
+- 🏢 Praktyki zawodowe w firmie [**Web-Box**](https://web-box.pl) 
+- 🏢 Staż zagraniczny Erasmus+ w firmie [**BilligTeknik**](https://www.billigteknik.se) 
 
 ## 🧑‍💻 Technologie
 
