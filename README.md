@@ -5,9 +5,9 @@
 (*Technik programista*)
 
 ### 🎖️Doświadczenie zawodowe
-- 🏢 Staż w firmie [**Jrise**](https://jrise.pl) (*Lipiec - Październik 2026*)
-- 🏢 Praktyki zawodowe w firmie [**Web-Box**](https://web-box.pl) (*Marzec - Maj 2024*)
-- 🏢 Staż zagraniczny Erasmus+ w firmie [**BilligTeknik**](https://www.billigteknik.se) (*Maj - Czerwiec 2023*)
+- 🏢 Staż w firmie [Jrise](https://jrise.pl) (*Lipiec - Październik 2026*)
+- 🏢 Praktyki zawodowe w firmie [Web-Box](https://web-box.pl) (*Marzec - Maj 2024*)
+- 🏢 Staż zagraniczny Erasmus+ w firmie [BilligTeknik](https://www.billigteknik.se) (*Maj - Czerwiec 2023*)
 
 ## 🧑‍💻 Technologie
 
