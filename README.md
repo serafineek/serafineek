@@ -1,5 +1,5 @@
 ### 🏫 Wykształcenie
-- 🏫 Uniwersytet Rzeszowski (2024 - obecnie)
+- 🏫 Uniwersytet Rzeszowski(https://www.ur.edu.pl/pl/strona-glowna) (2024 - obecnie)
 (*Studia inżynierskie, Informatyka*)
 - 🏫 Zespół Szkół im. ks. S. Staszica w Tarnobrzegu (2019-2024)
 (*Technik programista*)
