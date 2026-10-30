@@ -31,6 +31,7 @@
 - [**💪 FitAura**](https://github.com/xserafineq/fitaura) – Aplikacja desktopowa, do zapisywania dziennych aktywności oraz spożytych posiłków w ciągu dnia.
 - [**🫆 System autoryzacji biometrycznej**](https://github.com/xserafineq/MeBio) - zarządzanie użytkownikami, autoryzacja za pomocą twarzy oraz głosu.
 - [**💚 Strona Gabinetu Dietetycznego**](https://paulinaserafin.pl) - Strona z własnym motywem oraz autorskim corem.
+- [**🌐 TenMc.pl**](tenmc.pl) – Strona serwera Minecraft tenmc.pl wraz z integracjami z autorskim core'em wtyczek oraz panelem administratora.
 - [**📊 DataMiner**](https://github.com/xserafineq/DataMiner) – Program do analizy kursu walut oraz kruszców w danym czasie.
 - [**💸 Mamto**](https://github.com/xserafineq/MamTo) – Aplikacja webowa typu marketplace. 
 - [**🔒 Security Safe**](https://github.com/xserafineq/SecuritySafe) – Desktopowy menedżer haseł i szyfrowanych notatek stawiający na bezpieczeństwo danych.
